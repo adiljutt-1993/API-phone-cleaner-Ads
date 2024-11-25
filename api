@@ -1,0 +1,25 @@
+{
+  "Ads": {
+    "01": {
+      "AdsType": "off",
+      "App_Open": "ca-app-pub-1396902447261798/1213025884",
+      "App_manager_native": "ca-app-pub-1396902447261798/3165147634",
+      "Battery_info_native": "ca-app-pub-1396902447261798/2973575942",
+      "Collsable_banner": "ca-app-pub-1396902447261798/7184283691",
+      "Deep_cleaner_native": "ca-app-pub-1396902447261798/5871202020",
+      "Delete_Duplicate_native": "ca-app-pub-1396902447261798/3245038689",
+      "Done_completetion_int": "ca-app-pub-1396902447261798/1427043645",
+      "Exit_int": "ca-app-pub-1396902447261798/9263652123",
+      "Exit_native": "ca-app-pub-1396902447261798/8773503435",
+      "How_To_Use_Native": "ca-app-pub-1396902447261798/6407907588",
+      "Inner_Int": "ca-app-pub-1396902447261798/2765882332",
+      "Junk_Cleaner_native": "ca-app-pub-1396902447261798/6722055166",
+      "Large_file_scanner_native": "ca-app-pub-1396902447261798/1768305482",
+      "Notification_blocker": "ca-app-pub-1396902447261798/1278156793",
+      "On_Boarding_Native": "ca-app-pub-1396902447261798/7800880303",
+      "Process_Manager_native": "ca-app-pub-1396902447261798/5707550491",
+      "Social_cleaner_native": "ca-app-pub-1396902447261798/36338911781",
+      "Splash_Int": "ca-app-pub-1396902447261798/5392045672"
+    }
+  }
+}
