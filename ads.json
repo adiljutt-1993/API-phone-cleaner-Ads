@@ -1,7 +1,7 @@
 {
   "Ads": {
     "01": {
-      "AdsType": "debug",
+      "AdsType": "off",
       "App_Open": "ca-app-pub-1396902447261798/1213025884",
       "App_manager_native": "ca-app-pub-1396902447261798/3165147634",
       "Battery_info_native": "ca-app-pub-1396902447261798/2973575942",
